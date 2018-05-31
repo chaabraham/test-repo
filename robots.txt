@@ -1,4 +1,6 @@
-User-agent: *
+this is now child 4
+
+User-agent: * 
 Disallow: /
 
 this is child 2 merged into child1
