@@ -1,3 +1,5 @@
+this is child 6
+
 User-agent: *
 Disallow: /
 
