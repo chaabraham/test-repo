@@ -1,4 +1,6 @@
+this is child 7 
+
 User-agent: *
 Disallow: /
 
-this is child 2 merged into child1
+this is child 2 merged into child1 - 7xxxx
